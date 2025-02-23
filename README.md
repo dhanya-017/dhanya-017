@@ -15,6 +15,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
 
+# Certifications
+[![Google Cybersecurity](https://github.com/user-attachments/assets/5cb317f2-411b-4b9f-b6fb-91939489e608)](https://coursera.org/share/ff052add9ae4cc0df92338f597872797)
+
 ## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanya-017&label=Profile%20views&color=0e75b6&style=flat" alt="dhanya-017" /> </p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanya-017" alt="dhanya-017" /></a></p>
