@@ -60,6 +60,16 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/dhanya-dwivedi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/dhanya.17" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
+## 🏆 Competitive Programming Stats
+<p>
+<a href ="https://leetcode.com/dhanya_17/">
+<img height = "280em" src = "https://leetcard.jacoblin.cool/dhanya_17?theme=dark&font=PT%20Serif&ext=contest">
+</a>
+<a href="https://www.geeksforgeeks.org/user/dhanya_17/">
+  <img height = "280em"src="https://gfgstatscard.vercel.app/dhanya_17" alt="GFG stats" />
+</a>
+</p>
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanya-017&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
