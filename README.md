@@ -13,7 +13,7 @@
 
 <h1>Hi 👋, I'm Dhanya Dwivedi</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Data+Science+Enthusiast..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer..;Open-Source+Enthusiast..;AI+Innovator..;Problem+Solver..;Nice+To+Meet+You+....&center=true"></a></p>
 
 # 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanya-017&label=Profile%20views&color=0e75b6&style=flat" alt="dhanya-017" /> </p>
